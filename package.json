@@ -1,0 +1,15 @@
+{
+  "name": "pipelinetestnode",
+  "version": "1.0.0",
+  "description": "this application is for testing AWS codepipeline",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Balaram Gayen",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
